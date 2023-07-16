@@ -58,5 +58,33 @@ Before running the app, make sure you have the following installed on your machi
 
 2. Change directory to the project folder:
    ```
-   cd travela-app-react-native
+   cd travel-app-react-native
    ```
+
+3. Install the dependencies:
+   ```
+   npm install
+   ```
+## Usage
+To run the application locally on a simulator or device, follow these steps:
+
+Ensure you have set up the development environment for React Native by following the official documentation: https://reactnative.dev/docs/environment-setup
+
+
+1. Run the Metro bundler:
+   ```npx react-native start```
+
+
+2. For iOS, run the following command in a new terminal:
+
+   ```
+   npx react-native run-ios
+   ```
+   For Android, run:
+   ```
+   npx react-native run-android
+   ```
+3. The application will now launch on the selected simulator or device.
+
+
+##  Screenshots
