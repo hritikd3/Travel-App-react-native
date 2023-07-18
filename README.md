@@ -1,4 +1,6 @@
-# TravelSaga🚀 React Native Cross-Platform App
+<h1 align="center">
+ TravelSaga🚀 React Native Cross-Platform App
+</h1>
 
 ![App Screenshot](/path/to/screenshot.png)
 
