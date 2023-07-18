@@ -92,3 +92,7 @@ Ensure you have set up the development environment for React Native by following
 
 
 ##  Screenshots
+
+
+## Contact 
+- If you have any feedback or want to contribute surely you can reach out to me at [Hritikdangi3@gmail.com](hritikdangi3@gmail.com)
