@@ -19,7 +19,7 @@
 
 ## Introduction
 
-Welcome to our Awesome React Native Cross-Platform App! This application is designed to showcase a wide variety of places and hotels, along with their descriptions, in a visually appealing and user-friendly manner. The app features a beautiful carousel that allows users to view different places and hotels, and when they drag it upward, they can see the ratings and reviews for each listing.
+Welcome to TravelSaga, A React Native Cross-Platform App! This application is designed to showcase a wide variety of places and hotels, along with their descriptions, in a visually appealing and user-friendly manner. The app features a beautiful carousel that allows users to view different places and hotels, and when they drag it upward, they can see the ratings and reviews for each listing.
 
 ## Features
 
